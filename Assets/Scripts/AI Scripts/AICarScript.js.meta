@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 611395d69701b794d9b28ca5198fe43c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pathGroup: {instanceID: 0}
+  - wheelFL: {instanceID: 0}
+  - wheelFR: {instanceID: 0}
+  - wheelRL: {instanceID: 0}
+  - wheelRR: {instanceID: 0}
+  - breakingMesh: {instanceID: 0}
+  - idleBreakLight: {fileID: 2100000, guid: 5d6e094769e39ad42a2d52b6ea6cc220, type: 2}
+  - activeBreakLight: {fileID: 2100000, guid: d9c75ccdafcc15343afd8531c0168793, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

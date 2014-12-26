@@ -1,0 +1,11 @@
+C:\Users\blackShadow\Desktop\3400_10_Codes\AIBookLastChapter\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\blackShadow\Desktop\3400_10_Codes\AIBookLastChapter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\blackShadow\Desktop\3400_10_Codes\AIBookLastChapter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\blackShadow\Desktop\3400_10_Codes\AIBookLastChapter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\blackShadow\Desktop\3400_10_Codes\AIBookLastChapter\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\blackShadow\Desktop\3400_10_Codes\AIBookLastChapter\Temp\bin\Debug\nunit.framework.dll
+C:\Users\blackShadow\Desktop\3400_10_Codes\AIBookLastChapter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\blackShadow\Desktop\3400_10_Codes\AIBookLastChapter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\blackShadow\Desktop\3400_10_Codes\AIBookLastChapter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\blackShadow\Desktop\3400_10_Codes\AIBookLastChapter\obj\Debug\Assembly-CSharp.dll
+C:\Users\blackShadow\Desktop\3400_10_Codes\AIBookLastChapter\obj\Debug\Assembly-CSharp.pdb
